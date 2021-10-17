@@ -1,4 +1,4 @@
-# 2-Plyaer_Tic-Tac-Toe
+# 2-Player_Tic-Tac-Toe
 
 <h1 align="center">
    Play Tic Tac Toe with Your Friend.
